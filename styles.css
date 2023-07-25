@@ -3,6 +3,14 @@
   padding:0px;
 }
 
+.circle {
+  background: #456BD9;
+  border: 0.1875em solid #0F1C3F;
+  border-radius: 50%;
+  height: 5em;
+  width: 5em;
+}
+
 #octocat {
   display: block;
   width:384px;
